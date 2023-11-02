@@ -10,7 +10,6 @@ import tednet.tnn.tensor_train as tt
 
 import torch
 
-
 class Test_TT:
     def test_TTConv2D(self):
         print('\n TTConv2D')
